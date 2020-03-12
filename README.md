@@ -12,6 +12,8 @@ A list of video instance segmentation papers, codes and datasets.
 ### Datasets
 - YouTube-VIS
   + https://youtube-vos.org/dataset/vis
+- KITTI MOTS 
+  + http://www.cvlibs.net/datasets/kitti/eval_mots.php
 
 
   
